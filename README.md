@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaiflores&show_icons=true&theme=radical)
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,django,dotnet,git,github,nodejs,py,react,sqlite,vscode,discord)](https://skillicons.dev)
