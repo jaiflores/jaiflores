@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaiflores
 - 👀 I’m interested in work with full stack.
-- 🌱 I’m currently learning django, python, html5, css, node.je and react.
+- 🌱 I’m currently learning java,django, python, html5, css, node.je and react.
 - 💞️ I’m looking to collaborate on all.
 - 📫 How to reach me: jaianny.vivian@gmail.com
 
